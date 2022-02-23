@@ -1,1 +1,16 @@
+https://www.softaox.info/display-all-your-wordpress-posts-on-one-page-by-category/
+
+*****************************************************************************
 https://www.softaox.info/wordpress/
+****************************************************************************
+https://www.softaox.info/how-to-use-shortcodes-on-wordpress/
+
+In this article, we going to see how to use shortcodes on WordPress. 
+Shortcode is a bit of code which helps to execute the function to display the content on the website. 
+By using do_shortcode function, we can display content or some kind of function anywhere on our WordPress website. 
+Here below you can see the example for do_shortcode.
+https://www.softaox.info/how-to-use-shortcodes-on-wordpress/
+Example:
+<?php echo do_shortcode('[your shortcode]'); ?>
+Note: Need to replace your shortcode to the plugin shortcode.
+NOTE 2 :(For single.php  --   Now I’m going to use this shortcode in single.php (Single Post) with do_shortcode function like this below example.) 
